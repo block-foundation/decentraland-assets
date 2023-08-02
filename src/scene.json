@@ -1,0 +1,38 @@
+{
+    "scene": {
+        "parcels": ["0,0"],
+        "base": "0,0"
+    },
+    "display": {
+        "title": "My Scene",
+        "snapshot": "./snapshot.png"
+    },
+    "owner": "",
+    "contact": {
+        "name": "Your Name",
+        "email": "youremail@example.com"
+    },
+    "main": "src/game.ts",
+    "tags": [],
+    "source": {
+        "origin": "0,0",
+        "rotation": "0,0,0"
+    },
+    "spawnPoints": [
+        {
+        "name": "spawn1",
+        "default": true,
+        "position": "0,0,0",
+        "camera": "0,0,0"
+        }
+    ],
+    "policy": {},
+    "requiredPermissions": [],
+    "sceneJsonVersion": "4.0",
+    "assets": {},
+    "dependencies": {
+        "decentraland-ecs": "6.6.2"
+    },
+    "events": {},
+    "gizmos": {}
+}
