@@ -1,0 +1,19 @@
+{
+    "name": "my-scene",
+    "version": "1.0.0",
+    "description": "A Decentraland Scene",
+    "main": "src/game.ts",
+    "scripts": {
+      "start": "dcl start",
+      "test": "dcl test",
+      "build": "dcl build"
+    },
+    "dependencies": {
+      "decentraland-ecs": "^6.6.2"
+    },
+    "devDependencies": {
+      "@types/node": "^12.12.6",
+      "typescript": "^3.7.2"
+    }
+  }
+  
