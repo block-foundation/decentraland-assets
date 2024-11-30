@@ -9,7 +9,7 @@
         "build": "dcl build"
     },
     "dependencies": {
-        "decentraland-ecs": "^6.6.2"
+        "decentraland-ecs": "^6.12.4"
     },
     "devDependencies": {
         "@types/node": "^22.0.2",
